@@ -58,3 +58,4 @@ print("Accuracy:", accuracy_score(y_test, svm_pred))
 print("Precision:", precision_score(y_test, svm_pred, average='weighted'))
 print("Recall:", recall_score(y_test, svm_pred, average='weighted'))
 print("F1 Score:", f1_score(y_test, svm_pred, average='weighted'))
+# done
